@@ -1,2 +1,2 @@
 # .NET-Tests
-Course dominating softwares tests from desenvolvedor.io
+Course dominating software tests from desenvolvedor.io
