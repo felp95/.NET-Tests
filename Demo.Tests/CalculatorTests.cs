@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using Xunit;
+﻿using Xunit;
 
 namespace Demo.Tests
 {
