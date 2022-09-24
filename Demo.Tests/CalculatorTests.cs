@@ -17,8 +17,6 @@ namespace Demo.Tests
             Assert.Equal(20, result);
         }
 
-
-
         [Theory]
         [InlineData(1, 1, 2)]
         [InlineData(1, 2, 3)]
